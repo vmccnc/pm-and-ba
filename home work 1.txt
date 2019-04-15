@@ -1,0 +1,19 @@
+Customer needs.
+
+Our customer has a problem:
+-	He earns money (very good if talking about salary in Belarus) but when end of month coming he spent all his money and cannot understand where his money was lost (spent).
+-	He has several credit cards.
+-	He has mobile phone where bank is sending SMS with sum of money that was spent to same product or service. But it works only with one card.
+-	He has no wife and sometimes he has a date with women and spend to them money. 
+-	He spends money to courses, but cannot buy same thing for his house (good bed, or other home things)
+Our customer wants to create web or android application that can help him to understand where he loses his money and spends it more effectively.
+
+
+Application should do:
+Each evening application offers to customer fills fields what expensive he really did (or servise).
+Analyze what type of goods where bought during each month. 
+Plan his expenses, it means each month he can add which bid goods he would like to buy, 
+Program show how much money customer spent every day and show middle number of this and give recommendation how many moneys he can spend.
+In the beginning of month program show page with product he need to buy (this page is filled through window in web application and android application) Through same period customer can see analytics that show average amount goods he need to buy every month.
+  
+It can save all expenses in database.
