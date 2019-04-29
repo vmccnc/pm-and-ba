@@ -1,4 +1,5 @@
 
 https://www.lucidchart.com/pages/uml-use-case-diagram
 
-
+PDF file: 
+http://csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf
